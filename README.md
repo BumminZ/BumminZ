@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**BumminZ/BumminZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm I'm Aung Tay Zar Maung</h1>
+<h3 align="center">Self-taught software engineer with 4 years of industry experience and currently working with Javascript and Rustlang.</h3>
 
 Here are some ideas to get you started:
 
