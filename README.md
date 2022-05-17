@@ -3,17 +3,18 @@
 
 ![](https://komarev.com/ghpvc/?username=BumminZ)
 
-- 🔭 I’m currently working on **fun staffs** 
+- 🦄 I’m currently working on **fun staffs** 
 - 🌱 I’m currently learning **Programming Languages**
-- 💬 Ask me about **Javascript, Rustlang**
-- 📫 How to reach me: **aungtayzarmaung@gmail.com**
-- ⚡ Fun fact: **I love Berserk Manga a lot**
+- 🗣️ Ask me about **Javascript, Rustlang**
+- 📮 How to reach me: **aungtayzarmaung@gmail.com**
+- 🖤 Fun fact: **I love Berserk Manga a lot**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BumminZ)](https://github-profile-trophy.vercel.app/?username=BumminZ)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BumminZ&theme=radical)](https://github-profile-trophy.vercel.app/?username=BumminZ&show_icons=true&theme=radical)
 
 
-[![BumminZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumminZ&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=BumminZ&count_private=true&show_icons=true)
+[![BumminZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumminZ&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=BumminZ&count_private=true&show_icons=true&theme=radical)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
