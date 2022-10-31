@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I'm Aung Tay Zar Maung</h1>
-<h3 align="center">Self-taught software engineer with 4 years of industry experience and currently working with Javascript and Rustlang.</h3>
+<h3 align="center">A self-taught software engineer with above 4 years of industry experience and currently working with Javascript and Rustlang.</h3>
 
 ![](https://komarev.com/ghpvc/?username=BumminZ)
 
