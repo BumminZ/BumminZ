@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Tay Zar Maung</h1>
-<h3 align="center">A self taught software developer. I'm passionate about creating new technology and I'm a big fan of GNU/Linux. I'm addicted to overcoming problems and I'm always looking for new challenges. I'm constantly learning new technologies and I'm always looking for ways to improve my skills. I'm also a big believer in open source software and I'm always looking for ways to contribute to the community.</h3>
+<h3 align="center">A self-taught software developer with a passion for building and a curiosity for learning from Yangon, Myanmar. Specializing in building complex websites and softwares. Currently, I’m focused on creating low-level softwares and A.I.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BumminZ&label=Profile%20views&color=0e75b6&style=flat" alt="BumminZ" />
 
