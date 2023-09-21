@@ -8,17 +8,6 @@
 
 <!-- GitHub Section  -->
 
-## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
- <div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BumminZ" alt="BumminZ's LangStat" /></p>
-<!--   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BumminZ&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="BumminZ's language"/>
-  </p>
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BumminZ&show_icons=true" alt="BumminZ's Stats"/>
-  </p> -->
-</div>
 
 <!-- GitHub section: END -->
 
