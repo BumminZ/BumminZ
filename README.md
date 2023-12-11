@@ -8,7 +8,7 @@ A code monkey who loves to create new things especially in A.I and low-level rel
 
 - 🗣️ Ask me about **Javascript, Rustlang and Operating Systems**.
 - 📮 Ask me about anything [here](https://github.com/BumminZ/BumminZ/issues).
-- 🧠 Fun fact: **I watch anime and read manga a lot**.
+- 🧠 Fun fact: **I watch animes and read mangas a lot**.
 
 ### Languages and Tools
 
