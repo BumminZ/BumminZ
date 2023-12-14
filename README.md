@@ -41,3 +41,9 @@ A code monkey who loves to create new things especially in A.I and low-level rel
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+ <div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BumminZ" alt="BumminZ's LangStat" /></p>
+</div>
