@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Aung Tay Zar Maung
 
-A code monkey who loves to create new things especially in A.I and low-level related softwares.
+A code monkey who loves to create new things especially in A.I and low-level languages.
 
 <img src="https://komarev.com/ghpvc/?username=BumminZ&label=Profile%20views&color=0e75b6&style=flat" alt="BumminZ" />
 
