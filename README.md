@@ -9,6 +9,7 @@ A code monkey who loves to create new things especially in A.I and low-level lan
 - 🗣️ Ask me about **Javascript, Rustlang and Operating Systems**.
 - 📮 Ask me about anything [here](https://github.com/BumminZ/BumminZ/issues).
 - 🧠 Fun fact: **I watch animes and read mangas a lot**.
+- 📧 Contact me: [aungtayzarmaung@gmail.com](mailto:aungtayzarmaung@gmail.com)
 
 ### Languages and Tools
 
