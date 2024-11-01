@@ -1,4 +1,4 @@
-### Hi 👋, I'm Aung Tay Zar Maung
+### Hi 👋, I'm TZM.
 
 A code monkey who loves to create new things especially in A.I and low-level languages.
 
